@@ -4,4 +4,6 @@
 
 __Возраст:__ _38_
 
-![](https://disk.yandex.ru/i/G3Bt1OZI45wj3w)
+<img src="https://github.com/Ametek/HWGH-Pages/blob/main/Па20.jpg" alt="Photo" width="200"/>
+
+А вот пока и всё. Остальное потом.
