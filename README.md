@@ -4,6 +4,6 @@
 
 __Возраст:__ _38_
 
-![](https://github.com/Ametek/HWGH-Pages/blob/main/img/Papa20.jpg)
+![](./img/Papa20.JPG)
 
 А вот пока и всё. Остальное потом.
